@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reachkeyDemo/static/css/main.913f5afe.chunk.css",
+    "main.js": "/reachkeyDemo/static/js/main.a7466e6f.chunk.js",
+    "main.js.map": "/reachkeyDemo/static/js/main.a7466e6f.chunk.js.map",
+    "runtime-main.js": "/reachkeyDemo/static/js/runtime-main.dbbc3a2b.js",
+    "runtime-main.js.map": "/reachkeyDemo/static/js/runtime-main.dbbc3a2b.js.map",
+    "static/css/2.4be38407.chunk.css": "/reachkeyDemo/static/css/2.4be38407.chunk.css",
+    "static/js/2.27eedb9f.chunk.js": "/reachkeyDemo/static/js/2.27eedb9f.chunk.js",
+    "static/js/2.27eedb9f.chunk.js.map": "/reachkeyDemo/static/js/2.27eedb9f.chunk.js.map",
+    "index.html": "/reachkeyDemo/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/reachkeyDemo/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.913f5afe.chunk.css.map": "/reachkeyDemo/static/css/main.913f5afe.chunk.css.map",
+    "static/js/2.27eedb9f.chunk.js.LICENSE.txt": "/reachkeyDemo/static/js/2.27eedb9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbbc3a2b.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.27eedb9f.chunk.js",
+    "static/css/main.913f5afe.chunk.css",
+    "static/js/main.a7466e6f.chunk.js"
+  ]
+}
